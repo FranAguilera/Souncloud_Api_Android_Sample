@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="powermock-classloading-objenesis-1.6.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-classloading-objenesis/1.6.4/ad2f41c076313c2bf311658659e89ea418fd1e96/powermock-classloading-objenesis-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.powermock/powermock-classloading-objenesis/1.6.4/36436e5c2cd6938fc2b0c43b7f8a6d391da37442/powermock-classloading-objenesis-1.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

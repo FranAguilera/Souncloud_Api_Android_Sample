@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="CustomBar">
+        <attr name="maxLevel" format="integer" />
+        <attr name="progressDrawable" format="reference" />
+        <attr name="backgroundDrawable" format="reference" />
+    </declare-styleable>
+</resources>

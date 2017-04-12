@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex.rxjava2-rxandroid-2.0.1_8f0fa1edc034dd45fa5e142b8abbdee103821b4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_d8c7b7a599d1254cd98c7f27a578c22d9f2955b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_43ce7704e46e3433eec499faa2282b79534b5d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f4bad9135f59581a34856f0d331276a35526fe37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_0b27a167c17bdeadcf89e2a6ac5d36449004bff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_64536dd385764d7e4a3748f7c2596c4688c7ff48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cf8f47023096ad7bc27c350f5362d0350a2ce0cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_400adf7557f3ce0561d79ee32628efc4fc415818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_03a87b8aa9fd11562a58073fcdb55558c196e99d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_22c1ac049451b89888b806bdd3686f73260242b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_a7f14158c86ac562fd42fca93d160fe9ea5134d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_120b06d5f6cef13738a92ca788c2c54385b03ee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_b09ba37183656e446b7a0c22aaa9fd9c9a3b24ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_15a890c4a751c4fe3cfd29816a6675dfbb387137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_343122bb885d16c1b226dd0bc23997f97aec6670/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.6/b0100ee9ceee5d1861371aefc814cee3e78ed23b/rxjava-2.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0100ee9ceee5d1861371aefc814cee3e78ed23b">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-2.0.6_b469ee7150e3b09e711a550815cbf1612dd4db68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.1.0_616b8358345b47d12bc2b2ffa1e0a12177e3e9bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_8d063cc56f8c9f22478bd89093d84e3799d54c3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_bf120c50a3e0c43f0387e50d3cb6044981701758/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_01a82dc98fe07aa4d55a791b247b89cebd8a88f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit2-rxjava2-adapter-1.0.0_169543ff0b966ab48a1dc23b75eb3c354c649881/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/reactive-streams-1.0.0_1a74a79ed3ee122233a03a444fe23a68278d3d44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_28178f5118fd8cf33be2e31bea57054d0d298801/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_b814b78bcb5c038c26b5436adb0efc9a699d50e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_85c9a87fa53abc9cc606fce5604d59d98fd866d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_cbae5262f0e2f16c8d99006e1cc09c06a0810624/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d0a2623ce6e6b41da5805e55d2b1ef21e1648ace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d280b9dda10168c9630ba72bf0e70eaaa0c9f2af">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3a082cab5f6047381589af4500bb5f4e81c0d0cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_848441620f618464bd8ef5e179702ddddc0cd383/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_7d32f1fd163fef983f59ab88fd6281fa161505d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_a1dcbab48cc586a9ea85af1eb52a8fd745ea9c1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_2d7efde529a55406fb5db082a45043ad1645fa77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be766b66868d9bd494b762a50a5cd0cfa06299b">
+        <dex dex="/Users/fran_aguilera/Documents/Job Applications 2017/SoundCloud/SoundCloud_Francisco_Aguilera_Exercise/Source_Code_Francisco_Aguilera/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_803d3d77948cb805e47ef4965d2520260c94a3f8/classes.dex" />
+    </item>
+
+</items>
